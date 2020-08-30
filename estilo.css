@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("wallpaper/fundo_3.png");
+    background-position: center;
+    width: 1366px;
+    height: 625px;
+    text-align: center;
+}
+#titulo {
+    color: rgb(255, 255, 255);
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0;
+    
+}
+#subtitulo {
+    color: rgb(255, 255, 255);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 2px solid  rgb(255, 255, 255);
+    
+}
+#acao {
+    color:  rgb(255, 255, 255);
+    border: 1px rgb(255, 255, 255) solid;
+    padding: 10px 20px 10px 20px ;
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+}
